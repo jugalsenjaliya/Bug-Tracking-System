@@ -1,0 +1,4 @@
+46255715,1235,Jugal,CSE,7405096818,Jugal@gmail.com
+46255716,1236,Dimanshu,CSE,8754096818,Dimanshu@gmail.com
+46255717,1237,Dhrumil,IT,9876096818,Dhrumil@gmail.com
+46255718,1238,Apoorva,Civil,2345096818,Apoorva@gmail.com
